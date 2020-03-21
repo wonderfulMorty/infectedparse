@@ -11,6 +11,7 @@ flask,layui,mysql5.6,pymysql
 三、图片展示
 
 1.爬取信息
+
 ![爬取信息](https://github.com/wonderfulMorty/infectedparse/blob/master/img/2306f5701411b1172ce2b43fbbc612bf_w.png)
 
 2.省市联动查询
