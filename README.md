@@ -19,7 +19,7 @@ flask,layui,mysql5.6,pymysql
 ![最新消息](http://tuchuang.wang/2020/03/27/6f278a357c303.png)
 
 
-2.疫情地图：
+3.疫情地图：
 ![疫情地图](http://tuchuang.wang/2020/03/27/ed00d86defd48.png)
 
 
