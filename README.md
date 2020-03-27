@@ -10,4 +10,18 @@ infectedparse\InfectionStat\src里面有sql文件，confirmedstat.sql是爬取�
 二、涉及技术
 flask,layui,mysql5.6,pymysql
 
+三、图片展示
+
+1.各个地区感染人数
+![各个地区感染人数](http://tuchuang.wang/2020/03/27/5089a56687931.png)
+
+2.最新消息：
+![最新消息](http://tuchuang.wang/2020/03/27/6f278a357c303.png)
+
+
+2.疫情地图：
+![疫情地图](http://tuchuang.wang/2020/03/27/ed00d86defd48.png)
+
+
+
 
